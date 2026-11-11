@@ -1,4 +1,4 @@
-This is my Module 3 assignment on data analysis with Python and Pandas. I used the Iris dataset from scikit-learn, which contains measurements of 150 flowers.
+This is my Module 2 assignment on data analysis with Python and Pandas. I used the Iris dataset from scikit-learn, which contains measurements of 150 flowers.
 
 The code is in iris_assignment.py.
 
